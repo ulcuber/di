@@ -1,0 +1,17 @@
+{
+    "name": "ulcuber/di",
+    "type": "library",
+    "description": "DI container with type-hinting",
+    "authors" : [
+        {
+            "name": "Victor",
+            "email": "victor17011998@yandex.ru",
+            "homepage": "http://vic-vic.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Di\\": "src/"
+        }
+    }
+}
